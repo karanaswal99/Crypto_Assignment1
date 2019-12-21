@@ -1,4 +1,3 @@
-Prime so n-1 integers
 
 Factors of 56245 are: 1 , 5 , 7 , 35 , 1607 , 8035 , 11249 , 56245.
 
