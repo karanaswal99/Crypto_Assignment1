@@ -1,0 +1,7 @@
+Prime so n-1 integers
+
+Factors of 56245 are: 1 , 5 , 7 , 35 , 1607 , 8035 , 11249 , 56245.
+
+Factors of 43159 are: 1 , 43159.
+
+Greatest Common Factor (Divisor) is 1.
