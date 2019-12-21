@@ -1,0 +1,4 @@
+If the prime factorisation of n is given by n =p1e1*...*pnen, then φ(n) = n *(1 - 1/p1)* ... (1 - 1/pn).
+
+2^10 = 1024
+φ(2^10) = 1024*(1-1/2) = 512
