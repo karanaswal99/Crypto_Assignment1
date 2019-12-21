@@ -1,0 +1,11 @@
+
+(A + P)^N mod P  //GIVEN
+
+
+P^N DIVIDES (A+P)^N
+
+IE P DIVIDES (A+P)^N  - P^N
+P DIVIDES A^N
+
+
+HENCE PROVED.
